@@ -4,9 +4,7 @@
 ![Columbia Engineering.](Images/Columbia.jpeg)
 
 ___
-This week, I will create cryptocurrency clusters by their performance in different time periods.
-
-To do so, I will utilize Python programming as well as unsupervised learning.
+This week, I will utilize Python as well as unsupervised learning. Unsupervised learning tries to make sense of an unlabeled dataset by extracting features and patterns on its own. Specifically, this notebook will create clusters of cryptocurrencies based on their performance in different time periods and then use Principal Component Analysis (PCA), a dimensionality reduction method, or compressing large data and only keeping the most useful information. Additionally, I will normalize data by applying standard scaling, a method of centering values around their mean.
 
 ---
 
